@@ -1,0 +1,130 @@
+﻿COMP100
+Programing I
+COMP100 is an introductory course in programming. It includes programming concepts, logic and program structures. It seeks to develop good coding practices and program design. It lays the foundations for the design and development of business applications; these will be tested in the C# .NET environment.
+1
+NA
+COMP120
+Software Engineering Fundamentals
+This course introduces students to the common terminologies, methodologies, tools, and techniques used in software engineering which form the basis for advanced studies. Roles of teams, risk management, software testing, and software engineering code of ethics and professional practice will also be introduced.
+1
+COMP100
+COMP122
+Introduction to Database Concepts
+This course introduces students to relational database concepts, as related to personal, client server, and enterprise database systems. Topics will include data types, table structure, and relationships, data access queries using QBE grid and SQL, normalization, and database security. These concepts will be reinforced using Microsoft Access for lab work and group term project. Oracle will also be briefly introduced and used for queries. Microsoft Visio will be used as the diagramming tool to create ERDs.
+1
+COMP100
+COMP123
+Programing II
+In this second course in computer programming, the student will apply design and programming concepts from Programming I, learn additional structured programming concepts, and are introduced to Object-Oriented Programming. The concepts will be presented using both Console and Windows based applications. The language of instruction is C#.
+2
+COMP100
+COMP391
+Introduction to Game and Simulation
+This course introduces the elements of design and development of electronic games, current game delivery systems and software, the commercial development cycle, and case studies of current games.
+2
+COMP100 COMP120
+COMP301
+UNIX/Linux
+This course covers basic operating system concepts using UNIX. Coursework emphasizes Unix File management, using UNIX utilities and developing UNIX scripts. Students will be introduced to basic system administration, PERL scripting, C/C++ and Java development in a UNIX/Linux system.
+4
+COMP100 COMP123 COMP120
+COMP225
+Software Engineering Methodologies 1
+Students will gain an understanding of the information systems environment through the Object-Oriented Systems Analysis and Design (OOSAD) approach. Students will be introduced to methodologies, requirement analysis & design models, UML tools, and techniques that are used to develop modern information systems. The instructor will cover the breadth of applications drawn from business, health and games appropriate for software solutions.
+2
+COMP100 COMP123
+COMP213
+Web Interface Design
+COMP-213 is the first course in a sequence of courses (COMP-213, COMP-229, and a range of elective advanced web courses) designed to teach students all the important current concepts and technologies related to developing powerful Internet applications. In this first level web course the student will learn how to access the resources of the Internet, use HTML and CSS to publish high-quality Web documents that observe widely accepted design guidelines, and enable web documents to share business data using XML.
+2
+COMP100 COMP123 COMP120
+COMP214
+Advanced Database Concepts
+This course is intended to expand student’s knowledge of business database systems.  The course starts with introducing students to the steps required to install an Oracle 10g database and developer system.  Then, it expands on the students’ knowledge of SQL by introducing more complex syntax than that covered in the first database course, as well introducing Oracle Form Builder and Report Builder utilities to create applications.  Topics covered include SQL functions to manipulate numbers, dates, and character strings, grouping, conversion and transformation functions, advanced queries, advanced data and table manipulation commands, basic oracle security, PL/SQL triggers, functions, procedures, and packages, an introduction to Oracle Form Builder, and an introduction to Oracle report builder.
+2
+COMP100 COMP123 COMP122
+COMP229
+Web Application Development
+COMP229 is the second course in a sequence of courses (COMP213 and a range of advanced elective Web applications and Web services courses), designed to teach students all the important current concepts and technologies related to developing powerful Internet enterprise applications. In this second Web course the student will learn how to develop advanced Web applications that interact with databases. The major topics covered in COMP229 are client-side scripting with JavaScript, server-side scripting using ASP.NET, connecting Web applications to client-server databases, using SQL queries to retrieve information from multiple database tables and displaying the results in Web forms, deploying complex data-driven application on production servers.
+3
+COMP213 COMP123 COMP122
+COMP246
+Object Oriented Software Engineering
+This course builds on COMP225 Software Engineering Methodologies I.  Students will continue to develop the problem solving skills required of a Systems Analyst through the analysis and design of business, health and gaming systems. The course emphasizes the iterative and incremental nature of the software development process best illustrated by Agile Modelling and Unified Process techniques currently being practised. The project work is critical as it follows the OOAD phases of inception, elaboration, construction and transition and it provides hands-on training, prototyping and testing of OO models developed by the student group. The essential requirements over the phases include: A requirements model/business model, use case model, business logic model, data models along with component and deployment diagrams; all of which will enhance the learning experience. All diagrams are UML-based and a Visual Modelling CaseTool is used extensively to prepare such diagrams. Students will also use a project management tool in managing the deliverables. This course provides the necessary preparation for a software development project.
+4
+COMP213 COMP123 COMP225
+COMP305
+Game Programing I
+Computer games are now one of the most popular forms of entertainment.  Developing games and simulations is among the most challenging and interesting forms of programming. This course explores the concepts and techniques of game programming and design.  Coursework emphasizes comprehensive game development topics, including 3D graphics and sound. Students will learn how to develop 2D and 3D games using C# and XNA.
+4
+COMP123 COMP391
+COMP228
+Java Programming
+Building on fundamentals of Object-Oriented programming, this course covers Component-based Application Development and Database Connectivity using the Java programming language.  Coursework emphasizes how to create complex GUI applications with Java programming language, and how to interact with the databases using JDBC.
+3
+COMP213 COMP212
+COMP212
+Programing III
+The goal of this course is to enable students, already proficient in OOP, to build robust and more complex, data-driven Windows applications using the .NET languages. Key concepts related to the .NET Framework are studied, and used to code, debug, tune, and deploy .NET applications. ADO.NET will be used to access and manipulate the business information stored in various database servers. New features of .NET Framework 3.5 are explored. The language of instruction is C#.
+3
+COMP123
+COMP311
+Software Testing and Quality Assurance
+In Software Testing and Quality Assurance students are taught testing methodologies and inspection approaches integrated into the software development life cycle. Coursework emphasizes testing throughout the software development life cycle, testing process, test design techniques, and test management. Definitions and theory in COMP311 is mostly based on the foundation level requirements of the International Software Testing Qualifications Board, but the course is enriched by extra readings. Hands-on labs use a variety of test tools in the Eclipse environment. In addition, students will research a software-testing tool as part of a group assignment and give a presentation to the class about their choice of tool.
+3
+COMP301
+COMP231
+Software Development Project 1
+This is the capstone course for Software Engineering Technician program and the first software development project course for all software engineering technology programs. The students are required to work in teams to design, implement, and document an application or a component for a hypothetical organization. This enables the student to simulate the activities of a software developer in the computer industry.
+4
+COMP225 COMP246
+COMP303
+Java EE Programming
+This course builds on Java Programming, COMP228, and explores the use of Java in networked and distributed environments. It introduces features of Java Standard Edition (SE) that support networking and concentrates on Java Enterprise Edition (EE). Students build Java Web applications and Java enterprise applications for deployment to Java Application Servers. The course also covers using the Java Persistence API in Java SE and Java EE environments. Hands on exercises use IBM Rational Application Developer V7.5.
+4
+COMP228
+COMP394
+Practical Game Design
+This course explores the necessary concepts that are used to design a game or simulation application. Coursework covers the main tasks that game designers implement during the development process. Topics include task design; design integration; control schemes; game balancing; game play mechanics and player interaction; tuning; and types and methods of testing and analysis.
+4
+COMP305 COMP246
+COMP396
+Game Programing II
+This is an advanced course in Interactive Gaming. Using the XNA framework, topics such as Finite State Machines (FSMs), Artificial Intelligence, Particle Systems, and Multi-Player Networked Games will be explored. FSMs and AI is used to build a game state engine that adds realistic (intelligent) motion to gaming objects. Particle Systems are introduced as backdrops to games that have common properties. Finally, an introduction Multi-Player Networked Gaming is presented.
+4
+COMP305 COMP246
+COMP308
+Emerging Technologies
+Building on programming frameworks learned in previous courses, this course will examine the evolution of Ajax and Rich Internet Applications (RIAs), as well as the emerging trends that will define next generation of web applications. Coursework emphasizes Ajax-enabled applications, Flex, Silverlight and Cloud Computing.
+4
+COMP246
+COMP313
+Software Development Project 2
+This is a capstone course for all software engineering technology programs and builds upon COMP231 course. The students are required to work in teams to design and implement a complete application or game for a small company. The project must make use of enterprise tools to build enterprise-level data integration. The project must involve teamwork, oral and written communication skills, problem solving, documentation, and research skills. Teams are allowed to select projects that fit with their specialization. Interactive Gaming students will develop a game, and Health Informatics students will select a project that focuses on health care information systems. Students are encouraged to create their teams in the previous semester.
+4
+COMP231 COMP246
+COMP392
+Advanced Graphics
+In Advanced Graphics, students learn the core computer graphics concepts that are commonly used in building modern computer games. Different 2D and 3D graphics techniques are explained and applied to building working examples of features that are very popular in today’s fast expanding games industry. The course includes lectures, demos and discussions of the fundamentals of graphics for game developers, followed by labs and programming assignments that re-enforce the understanding and familiarity of the students with these concepts 
+4
+COMP212
+COMP395
+Simulation Design
+COMP395 teaches the students in the Interactive Gaming program the core concepts used for designing simulations for game worlds, AI for synthetic characters, and physical and socio-economic systems. It also explains important principles for testing simulations and event models. Different code examples are used to illustrate the technical challenges of implementing simulated components in 2D and 3D applications
+5
+COMP305 COMP392 COMP391
+COMP380
+Structure of HCIS
+This course is the student’s initial introduction to the subject of health care informatics.  By means of this course, the student will explore the administrative and technical environment of health care informatics as well as the techniques of data capture and storage employed in this profession. Emphasis shall be placed on the topics of information management systems, the electronic medical record, as well as the design and evaluation of various types of information system. The student shall also study several of the health care classifications systems currently in use.
+5
+COMP305 COMP392 COMP391
+COMP381
+Tools ALgorithms and Methods for HCIS
+This course explores contemporary health informatics tools, algorithms and methods. Coursework emphasizes the use of HL7 as a standard for exchanging information between medical applications, and the use of BI tools, such as Crystal Reports and SAS, for analyzing and manipulating health care data.
+5
+COMP212
+COMP382
+Computer Techniques in Medical Imaging
+COMP382 introduces the students in the Health Informatics diploma program to the concepts involved in medical image processing. This course takes a practical approach to covering the main topics involved in the field of computer processing of medical images. First it explains core concepts related to digital images manipulation in the medical field and then it follows up with examples processed in a freely available software package. The course includes lectures, demos and discussions of the fundamental principles of segmentation, classification, registration, restoration and visualisation involved in medical image processing, followed by labs and practical assignments that re-enforce the understanding and familiarity of the students with these concepts. Special attention is given to best practices that apply to each topic covered by the course. Taught concepts are further explored and practiced through a sequence of relevant case studies.
+5
+COMP3381

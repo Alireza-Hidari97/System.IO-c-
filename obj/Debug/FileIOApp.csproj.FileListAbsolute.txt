@@ -1,0 +1,14 @@
+C:\Users\AdminWCI\source\repos\FileIOApp\bin\Debug\FileIOApp.exe.config
+C:\Users\AdminWCI\source\repos\FileIOApp\bin\Debug\FileIOApp.exe
+C:\Users\AdminWCI\source\repos\FileIOApp\bin\Debug\FileIOApp.pdb
+C:\Users\AdminWCI\source\repos\FileIOApp\obj\Debug\FileIOApp.csprojAssemblyReference.cache
+C:\Users\AdminWCI\source\repos\FileIOApp\obj\Debug\FileIOApp.csproj.CoreCompileInputs.cache
+C:\Users\AdminWCI\source\repos\FileIOApp\obj\Debug\FileIOApp.exe
+C:\Users\AdminWCI\source\repos\FileIOApp\obj\Debug\FileIOApp.pdb
+C:\Users\mghor\OneDrive\Desktop\COMP123\week6\FileIOApp-solution (1)\bin\Debug\FileIOApp.exe.config
+C:\Users\mghor\OneDrive\Desktop\COMP123\week6\FileIOApp-solution (1)\bin\Debug\FileIOApp.exe
+C:\Users\mghor\OneDrive\Desktop\COMP123\week6\FileIOApp-solution (1)\bin\Debug\FileIOApp.pdb
+C:\Users\mghor\OneDrive\Desktop\COMP123\week6\FileIOApp-solution (1)\obj\Debug\FileIOApp.csprojAssemblyReference.cache
+C:\Users\mghor\OneDrive\Desktop\COMP123\week6\FileIOApp-solution (1)\obj\Debug\FileIOApp.csproj.CoreCompileInputs.cache
+C:\Users\mghor\OneDrive\Desktop\COMP123\week6\FileIOApp-solution (1)\obj\Debug\FileIOApp.exe
+C:\Users\mghor\OneDrive\Desktop\COMP123\week6\FileIOApp-solution (1)\obj\Debug\FileIOApp.pdb
